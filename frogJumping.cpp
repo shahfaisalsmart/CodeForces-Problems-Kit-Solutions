@@ -1,6 +1,7 @@
 /*
   Author: Mohammad Faisal
   Problem: Frog Jumping
+*/
 #include<bits/stdc++.h>
 using namespace std;
 int main()
